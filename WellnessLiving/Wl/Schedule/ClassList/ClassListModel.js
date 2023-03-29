@@ -39,6 +39,12 @@ function Wl_Schedule_ClassList_ClassListModel()
    * element has next keys:
    * <dl>
    *   <dt>
+   *     string[] <var>a_class_tab</var>
+   *   </dt>
+   *   <dd>
+   *     Keys of the class tab.
+   *   </dd>
+   *   <dt>
    *     string[] <var>a_staff</var>
    *   </dt>
    *   <dd>
